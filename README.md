@@ -20,3 +20,6 @@ While spotify wrap is an amazing and exciting event to look forward too
 you don't have to wait for November or December of next year to how basic or based your music taste is
 
 # Technical
+While theres Many sides of this project, This was originally meant for my personal enjoyment(making fun of myself)  
+But I have decided to go ahead and create a app of sorts  
+
